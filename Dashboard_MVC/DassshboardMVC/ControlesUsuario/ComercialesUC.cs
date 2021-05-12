@@ -24,7 +24,7 @@ namespace DashboardMVC.ControlesUsuario
             label2.Text = ciudad;
             label3.Text = edad;
 
-            String imagen = "../avatar" + comElegido + ".png";
+            String imagen = "./avatar" + comElegido + ".png";
             pictureBox1.Image = Image.FromFile(@imagen);
         }
     }

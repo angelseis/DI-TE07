@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardBLL\\DashboardBLL.csproj": {}
+    "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardBLL\\DashboardBLL.csproj": {}
   },
   "projects": {
-    "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardBLL\\DashboardBLL.csproj": {
+    "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardBLL\\DashboardBLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardBLL\\DashboardBLL.csproj",
+        "projectUniqueName": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardBLL\\DashboardBLL.csproj",
         "projectName": "DashboardBLL",
-        "projectPath": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardBLL\\DashboardBLL.csproj",
+        "projectPath": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardBLL\\DashboardBLL.csproj",
         "packagesPath": "C:\\Users\\am\\.nuget\\packages\\",
-        "outputPath": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardBLL\\obj\\",
+        "outputPath": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardBLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\am\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj": {
-                "projectPath": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj"
+              "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj": {
+                "projectPath": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj"
               },
-              "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj": {
-                "projectPath": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj"
+              "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj": {
+                "projectPath": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj"
               }
             }
           }
@@ -64,18 +64,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj": {
+    "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj",
+        "projectUniqueName": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj",
         "projectName": "DashboardDAL",
-        "projectPath": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj",
+        "projectPath": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardDAL\\DashboardDAL.csproj",
         "packagesPath": "C:\\Users\\am\\.nuget\\packages\\",
-        "outputPath": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboardDAL\\obj\\",
+        "outputPath": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboardDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\am\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj": {
-                "projectPath": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj"
+              "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj": {
+                "projectPath": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj"
               }
             }
           }
@@ -125,18 +125,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj": {
+    "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj",
+        "projectUniqueName": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj",
         "projectName": "DashboardUtilidades",
-        "projectPath": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj",
+        "projectPath": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboarUtilidades\\DashboardUtilidades.csproj",
         "packagesPath": "C:\\Users\\am\\.nuget\\packages\\",
-        "outputPath": "F:\\&ULHI\\DI\\source\\repos\\Dashboard_MVC\\DashboarUtilidades\\obj\\",
+        "outputPath": "M:\\GIT\\DI-TE07\\Dashboard_MVC\\DashboarUtilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\am\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,7 +182,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

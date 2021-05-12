@@ -25,3 +25,12 @@ F:\&ULHI\DI\source\repos\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2
 F:\&ULHI\DI\source\repos\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboardUtilidades.csproj.CoreCompileInputs.cache
 F:\&ULHI\DI\source\repos\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboardUtilidades.dll
 F:\&ULHI\DI\source\repos\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboardUtilidades.pdb
+M:\GIT\DI-TE07\Dashboard_MVC\DashboarUtilidades\bin\Debug\netstandard2.0\DashboardUtilidades.deps.json
+M:\GIT\DI-TE07\Dashboard_MVC\DashboarUtilidades\bin\Debug\netstandard2.0\DashboardUtilidades.dll
+M:\GIT\DI-TE07\Dashboard_MVC\DashboarUtilidades\bin\Debug\netstandard2.0\DashboardUtilidades.pdb
+M:\GIT\DI-TE07\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboardUtilidades.csprojAssemblyReference.cache
+M:\GIT\DI-TE07\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboardUtilidades.AssemblyInfoInputs.cache
+M:\GIT\DI-TE07\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboardUtilidades.AssemblyInfo.cs
+M:\GIT\DI-TE07\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboardUtilidades.csproj.CoreCompileInputs.cache
+M:\GIT\DI-TE07\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboardUtilidades.dll
+M:\GIT\DI-TE07\Dashboard_MVC\DashboarUtilidades\obj\Debug\netstandard2.0\DashboardUtilidades.pdb

@@ -15,7 +15,7 @@ namespace DashboardDAL
         //Llama al método CSV_ToArray para crear el array con los datos de los comerciales
         public String[,] CrearArrayComerciales(DashboardVO dashboardVO)
         {
-            String fichero = "../" + dashboardVO.FileComerciales;
+            String fichero = "./" + dashboardVO.FileComerciales;
             String[,] miArray = CSV_ToArray(@fichero, ",");
 
             return miArray;
@@ -24,7 +24,7 @@ namespace DashboardDAL
         //Llama al método CSV_ToArray para crear el array de ventas
         public String[,] CrearArrayVentas(DashboardVO dashboardVO)
         {
-            String fichero = "../" + dashboardVO.FileVentas;
+            String fichero = "./" + dashboardVO.FileVentas;
             String[,] miArray = CSV_ToArray(@fichero, ",");
 
             return miArray;
