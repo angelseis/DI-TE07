@@ -1,11 +1,5 @@
 # DI-TE07
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -21,9 +15,6 @@
 
 <!-- INDICE -->
 
-- [1. About](#about).
-- [2. Contacto](#contacto).
-- [3. Referencias](#referencias).
 <details open="open">
   <summary>Indice</summary>
   <ol>
@@ -35,40 +26,36 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About
+<img alt="screen" src="images/screenshot.jpg"/>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+### Para que sirve esta aplicación ❓
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Esta aplicación está pensada para proporcionar los datos de ventas de una empresa. A través de un único dashboard es capaz de mostrar los datos individualizados de los comerciales que trabajan en la empresa.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+### A quién está orientada  👥 
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Está orientada a cualquier persona de la empresa que necesite conocer los datos de ventas y de facturación del equipo comercial.
+
 
 
 ## Contacto
 
+Mi nombre es Angel y soy el propietario y fundador de nuestra agencia de diseño de aplicaciones web. Mi equipo y yo creamos Dashboards con un enfoque en la experiencia del usuario. Creamos aplicaciones web atractivas y funcionales al mismo tiempo.
+
+Nuestra experiencia tiene un recorrido de casi 10 años y hemos trabajado con todos, desde la pequeña empresa hasta la empresa Fortune. Queremos ayudar a que la información de la empresa pueda recuperarse de una manera sencilla y atractiva.
+
+Nuestro correo electrónico  amunoz@birt.eus   ✉️
+
 
 
 ## Referencias
+[![Generic badge](https://img.shields.io/badge/IKASTETXEA-birt.eus-<COLOR>.svg)](https://www.birt.eus/)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)]()
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 
+<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
